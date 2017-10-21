@@ -1,2 +1,17 @@
-# iris-dataset-representation
+# Iris Data Set Representation
 Problem Sheet 3 (Fisher’s iris data set) for Emerging Technologies Module (4th Year, Bsc (Hons) in Software Development)
+This repository contains the answers for [Problem Sheet 3](https://emerging-technologies.github.io/problems/jupyter.html) as part of te coursework for Emerging Technologies Module (4th Year, Bsc (Hons) in Software Development). Explanations about code may be found as comments in the code. For any query of further clarification contact me at g00330058@gmit.ie.
+
+## Running the code
+
+In order to execute the file the following items are required:
+* Python3.
+* Numpy module installed.
+* Matplotlib module installed.
+
+Original source of [Iris](https://osdn.net/projects/sfnet_irisdss/downloads/IRIS.csv/) data files.
+
+Once the requirements have been fulfilled, you can run the code by entering the following in the command line (in the same folder as the notebook file is):
+``` 
+$: jupyter notebook
+```
