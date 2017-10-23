@@ -7,9 +7,12 @@ This repository contains the answers for [Problem Sheet 3](https://emerging-tech
 In order to execute the file the following items are required:
 * Python3.
 * Jupyter.
-* Numpy module installed.
-* Matplotlib module installed.
-* Seaborn module installed.3
+- Modules Required:
+    * Numpy.
+    * Matplotlib.
+    * Seaborn.
+    * Pandas. 
+    * Scipy.
 
 Original source of [Iris](https://osdn.net/projects/sfnet_irisdss/downloads/IRIS.csv/) data files.
 
